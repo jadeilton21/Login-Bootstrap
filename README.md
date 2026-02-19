@@ -45,6 +45,4 @@ Ideal para:
 | 🌙 CSS | Estilização visual |
 | ⚙️ JavaScript | Preparado para validações |
 
----
 
-## 📂 Estrutura do Projeto
